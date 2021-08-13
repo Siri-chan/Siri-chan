@@ -1,13 +1,9 @@
-<div style="text-align: center;">
-  <b>Hi, I'm</b>
+<b>Hi, I'm</b>
   <br>
-  
+  <br>
 
 
-<img src="https://raw.githubusercontent.com/Siri-chan/siri-chan.github.io/main/img/logo.svg" title="my site" href="sirichan.github.io" alt="Siri!">
-
-
-*pssst! click the logo above to go to my site*
+<img src="https://raw.githubusercontent.com/Siri-chan/siri-chan.github.io/main/img/logo.svg" title="pssst! click the logo to go to my site" href="sirichan.github.io" alt="Siri!">
  </div>
 
 
