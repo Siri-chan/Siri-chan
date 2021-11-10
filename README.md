@@ -1,6 +1,6 @@
 <b>Hi, I'm</b>
   <br>
-<img src="https://raw.githubusercontent.com/Siri-chan/siri-chan.github.io/main/img/logo.svg" title="pssst! click the logo to go to my site" href="sirichan.github.io" alt="Siri!">
+<img src="https://raw.githubusercontent.com/Siri-chan/siri-chan.github.io/main/img/logo.svg" title="pssst! click the logo to go to my site" href="https://siri-chan.github.io/" alt="Siri!">
  </div>
 
 
